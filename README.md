@@ -1,2 +1,2 @@
-# bughunting101
-for https://reports.pwnspirit.xyz
+## `Bugs reports`
+* NoSQL injection - Learning NOSQLI cuz why not ?!
